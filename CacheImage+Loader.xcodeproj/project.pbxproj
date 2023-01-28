@@ -22,7 +22,6 @@
 		248185A42985982A00524A9D /* NetworkReachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2481859A2985982A00524A9D /* NetworkReachability.swift */; };
 		248185A52985982A00524A9D /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2481859B2985982A00524A9D /* Endpoint.swift */; };
 		248185A62985982A00524A9D /* APIHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2481859C2985982A00524A9D /* APIHandler.swift */; };
-		248185AA29859AFD00524A9D /* Example.gif in Resources */ = {isa = PBXBuildFile; fileRef = 248185A929859AFD00524A9D /* Example.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,7 +42,6 @@
 		2481859A2985982A00524A9D /* NetworkReachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkReachability.swift; sourceTree = "<group>"; };
 		2481859B2985982A00524A9D /* Endpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
 		2481859C2985982A00524A9D /* APIHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIHandler.swift; sourceTree = "<group>"; };
-		248185A929859AFD00524A9D /* Example.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Example.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +74,6 @@
 		2481856D298546DD00524A9D /* CacheImage+Loader */ = {
 			isa = PBXGroup;
 			children = (
-				248185A929859AFD00524A9D /* Example.gif */,
 				2481858C2985982A00524A9D /* Module */,
 				248185982985982A00524A9D /* Service */,
 				248185852985501D00524A9D /* CacheImageView */,
@@ -207,7 +204,6 @@
 				248185A12985982A00524A9D /* ProductTableViewCell.xib in Resources */,
 				24818578298546DF00524A9D /* Assets.xcassets in Resources */,
 				24818576298546DD00524A9D /* Main.storyboard in Resources */,
-				248185AA29859AFD00524A9D /* Example.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
